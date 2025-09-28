@@ -25,6 +25,3 @@ This project focuses on predicting employee churn (whether an employee will leav
 - Neural networks with tuned optimizers (Adam, RMSprop) gave strong performance.  
 - Feature scaling significantly improved convergence.  
 
-
-   git clone https://github.com/yourusername/employee-churn-prediction.git
-   cd employee-churn-prediction
